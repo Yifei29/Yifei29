@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yifei29
 - 👀 I’m interested in Lua Coding
-- 🌱 I’m currently learning Roblox Studio Lua
-- 💞️ I’m looking to collaborate on my game
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on my OS
 - 📫 How to reach me:
 - Email: Wanyh2937
 -ProNouns: He/Him
