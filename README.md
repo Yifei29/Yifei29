@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my OS
 - 📫 How to reach me:
-- Email: Wanyh2937
+- Email: Wanyh2937@gmail.com
 -ProNouns: He/Him
 
 <!---
